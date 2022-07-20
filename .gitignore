@@ -1,0 +1,12 @@
+# Compiled Assembly 6502 Code
+*.bin
+*.hex
+
+# Assembly 6502 File
+*.asm
+
+# Visual studio project
+Debug
+*.vcxproj
+*.filters
+*.user
